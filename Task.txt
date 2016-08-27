@@ -1,0 +1,14 @@
+1. Create Annual Schedule - Ronn/GSL
+
+2. Create/Modify Program Slot - Ankur
+
+3. Delete Program Slot  - CH
+
+4. Review/Select Scheduled Program - Ronn/GSL
+
+5. Review/Select Presenter/Producer - CH
+
+6. Create/Modify user - Amar
+
+7. Delete user - Amar
+
