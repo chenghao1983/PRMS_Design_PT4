@@ -1,15 +1,25 @@
-1. Create Annual Schedule - Ronn/GSL
+1. Create Annual Schedule sequence diagram - Ronn/GSL
 
-2. Create/Modify Program Slot - Ankur
+2. Create/Modify Program Slot sequence diagram - Ankur
 
-3. Delete Program Slot  - CH
+3. Delete Program Slot sequence diagram - CH
+done
 
-4. Review/Select Scheduled Program - Ronn/GSL
+4. Review/Select Scheduled Program sequence diagram - Ronn/GSL
 
-5. Review/Select Presenter/Producer - CH
+5. Review/Select Presenter/Producer sequence diagram - CH
+done
 
-6. Create/Modify user - Amar
+6. Create/Modify user sequence diagram - Amar
 
-7. Delete user - Amar
+7. Delete user sequence diagram - Amar
 
 8. Copy from previous weekly schedule - Amar
+
+9. Review/Select Scheduled Program class diagram - Ronn/GSL
+
+10. Review/Select Presenter/Producer class diagram - CH
+
+11. Maintain schedule class diagram - CH
+
+12. Maintain user class diagram - Amar
