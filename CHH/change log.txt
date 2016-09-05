@@ -1,0 +1,14 @@
+
+
+
+2016-09-05
+1. updated Review/Select Presenter/Producer sequence diagram
+2. updated reviewSelectPresenterProducerDelegate method in ReviewSelectPresenterProducerDelegate, added in selectType: String parameter
+3. added getUserMaintenanceDAO operation in DAOFactory
+4. updated the paramter of reviewSelectScheduledProgram method to int, int
+5. added retrieveAllPresenters and retrieveAllProducers to UserMaintenanceDAO and UserMaintenanceDAOImpl
+6. Updated notes for UserMaintenanceDAOImpl
+7. added close operation to presenterProducerList page
+8. added int parameter to selectSelectPresenterProducer in presenterProducerList apge
+
+
