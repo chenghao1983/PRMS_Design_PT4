@@ -1,0 +1,11 @@
+1. Do we use ID as PK for program slot ?
+2. 
+
+
+
+Important notes
+1. Clear session 'PresenterList' after retrieving one 
+2. Clear session 'ProducerList' after retrieving one
+3. User basic information: name, address, date joining
+4. Controllers call Review/Select Presenter/Producer must set select type 'Presenter' or 'Producer' in the request parameter. For the ReviewSelectPresenterProducerSer delegate to know which type of users to find. And upon selection of Presenter/Producer, the caller controller should get the presenter 'Presenter' / producer 'Producer' from session, followed by clearing the respective value in session
+5. 
