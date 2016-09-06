@@ -1,7 +1,9 @@
 2016-09-06
 1. added Class Diagram for Review/Select Presenter/Producer
-
-
+2. updated Class Diagram for Maintain Schedule
+3. added createProgramSlot(ProgarmSlot), modifyProgramSlot(ProgramSlot),findWeeklyProgramSlots(year, weekNo), findAnnualSchedule(year), findWeeklySchedule(year, weekNo) 
+to ScheduleDAO and ScheduleDAOImpl 
+4. updated delete program slot sequence diagram
 
 
 
