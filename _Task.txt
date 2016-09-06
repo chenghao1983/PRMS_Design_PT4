@@ -19,6 +19,7 @@ done
 9. Review/Select Scheduled Program class diagram - Ronn/GSL
 
 10. Review/Select Presenter/Producer class diagram - CH
+done
 
 11. Maintain schedule class diagram - CH
 
