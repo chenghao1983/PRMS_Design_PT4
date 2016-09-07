@@ -3,7 +3,8 @@
 
 - updated Class Diagram for Maintain Schedule
 - updated delete program slot sequence diagram
-- added createWeeklySchedule(year int) to ScheduleDAO and ScheduleDAOImpl - ok
+- standardized Integer parameter to int
+- added - added createWeeklySchedule(year int) to ScheduleDAO and ScheduleDAOImpl - ok
 
 
 
