@@ -1,20 +1,16 @@
 
 2016-09-07
-
-- updated Class Diagram for Maintain Schedule
-- updated delete program slot sequence diagram
-- standardized Integer parameter to int
-- added - added createWeeklySchedule(year int) to ScheduleDAO and ScheduleDAOImpl - ok
-
-
+- added processCheckIfAnnualScheduleCreated(int):boolean to ScheduleDelegate and ScheduleService - ok
+- updated Class Diagram for Maintain Schedule - ok
+- updated delete program slot sequence diagram  - ok
+- standardized Integer parameter to int - ok
+- added createWeeklySchedule(year int) to ScheduleDAO and ScheduleDAOImpl - ok
 
 
 2016-09-06
-
 - added createProgramSlot(ProgarmSlot), modifyProgramSlot(ProgramSlot),findWeeklyProgramSlots(year, weekNo), findAnnualSchedule(year), findWeeklySchedule(year, weekNo) 
 to ScheduleDAO and ScheduleDAOImpl 
 - added Class Diagram for Review/Select Presenter/Producer
-
 
 
 2016-09-05
