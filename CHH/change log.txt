@@ -1,4 +1,8 @@
 
+2016-09-08
+- updated review/select presenter/producer sequence diagram, call UserMaintenanceCmd to store presenter/producer in session - ok
+- updated - updated delete program slot sequence diagram - ok
+
 2016-09-07
 - added processCheckIfAnnualScheduleCreated(int):boolean to ScheduleDelegate and ScheduleService - ok
 - updated Class Diagram for Maintain Schedule - ok
