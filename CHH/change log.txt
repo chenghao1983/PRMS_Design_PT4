@@ -1,6 +1,9 @@
 2016-11-09
-- updated delete program solot sequence diagram
-- added selectCreateProgramSlot, selectDeleteProgramSlot, selectEditProgramSlot to setupProgramSlotPage
+- removed weeklyscheduleListPage, replaced by setupSchedulePage - ok
+- updated review select presenter producer sequence diagram - ok
+- updated maintain schedule class diagram
+- updated delete program slot sequence diagram - ok
+- added selectCreateProgramSlot, selectDeleteProgramSlot, selectEditProgramSlot to setupProgramSlotPage - ok
 - removed collaboration diagrams from design moel - ok
 - removed unnecessary old ayalisis objects - ok
 - removed the space in the operation name 'copyFromPreviousWeek'  - ok
