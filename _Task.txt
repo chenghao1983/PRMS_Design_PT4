@@ -1,43 +1,27 @@
-1. Create Annual Schedule sequence diagram - Ronn/GSL
-
+1. Create Annual Schedule sequence diagram - HU RENWEN & GONG SHENGLIANG 
 
 2. Create/Modify Program Slot sequence diagram - Ankur
 
+3. Delete Program Slot sequence diagram - CHENG Hao
 
-3. Delete Program Slot sequence diagram - CH
-done
+4. Review/Select Scheduled Program sequence diagram - HU RENWEN & GONG SHENGLIANG 
 
+5. Review/Select Presenter/Producer sequence diagram - CHENG Hao
 
-4. Review/Select Scheduled Program sequence diagram - Ronn/GSL
-
-
-5. Review/Select Presenter/Producer sequence diagram - CH
-done
-
-
-6. Create/Modify user sequence diagram - Amar
-
+6. Create/Modify user/Assign Role sequence diagram - Amar
 
 7. Delete user sequence diagram - Amar
 
+8. List/Manage user sequence diagram - Amar
 
-8. Copy from previous weekly schedule - Amar
+9. Copy from previous weekly schedule - Amar
 
+10. Review/Select Scheduled Program class diagram - HU RENWEN & GONG SHENGLIANG 
 
-9. Review/Select Scheduled Program class diagram - Ronn/GSL
+11. Review/Select Presenter/Producer class diagram - CHENG Hao
 
+12. Maintain schedule class diagram - CHENG Hao
 
-10. Review/Select Presenter/Producer class diagram - CH
-done
+13. Maintain user class diagram - Amar
 
-
-11. Maintain schedule class diagram - CH
-done
-
-
-12. Maintain user class diagram - Amar
-
-
-
-13. High Level Design - CH
-done
+14. High Level Design - CHENG Hao
