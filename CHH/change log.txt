@@ -1,3 +1,11 @@
+2016-11-09
+- updated delete program solot sequence diagram
+- added selectCreateProgramSlot, selectDeleteProgramSlot, selectEditProgramSlot to setupProgramSlotPage
+- removed collaboration diagrams from design moel - ok
+- removed unnecessary old ayalisis objects - ok
+- removed the space in the operation name 'copyFromPreviousWeek'  - ok
+
+
 
 2016-09-08
 - updated review/select presenter/producer sequence diagram, call UserMaintenanceCmd to store presenter/producer in session - ok
